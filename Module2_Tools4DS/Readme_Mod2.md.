@@ -1,0 +1,5 @@
+## Tools and Environments
+This module describe the most common tools used in Data Science. Among others, this module describe:
+- Programming languages: SQL / Python / R
+- DS Environments: JupyterLab / JupyterNotebook / RStudio
+- Version contros tools: Git / GitHub
